@@ -3,9 +3,11 @@ Notas de aprendizado sobre Spark, usando python e HDFS, na Fatec Americana.
 
 ## HDFS
 Este projeto faz uso do HDFS, Hadoop Distributed File System, e sua instalação e projetos anteriores se encontram no repositório:
+
 [Hadoop Diario](https://github.com/z4r4tu5tr4/Hadoop-diario)
 
-##### Para facilitar o acesso a dados do hdfs, e também outras funções do Hadoop, foi criada um mini-biblioteca para fazer interações do PySpark
+##MapReduceLib
+Para facilitar o acesso a dados do hdfs, e também outras funções do Hadoop, foi criada um mini-biblioteca para fazer interações do PySpark
 
 [MapReduceLib](https://github.com/z4r4tu5tr4/MapReduceLib)
 
