@@ -27,7 +27,7 @@ resposta = noticias.map(lambda x: x.replace(',',' , ').replace('.',' . ')\
                         .map(lambda word: (word, 1))\
                         .reduceByKey(lambda x,y:x+y)\
                         .sortByKey()\
-                        .map(lambda x: str("%-20s|%2s")%(x[0],x[1]))
+                        .map(lambda x: str(("%-20s|%2s")%(x[0],x[1]))
 
 hdfs.rm_dir("/contador/output") #Remove o dir output, caso ele exista
 
