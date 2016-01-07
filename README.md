@@ -14,7 +14,7 @@ Para facilitar o acesso a dados do hdfs, e também outras funções do Hadoop, f
 #### Spark on Yarn
 Para usar o gerente de cluster do Hadoop, YARN, foram feitas algumas alterações na configuração do spark disponíveis em:
 
-[Spark on Yarn]()
+[Spark on Yarn](https://github.com/z4r4tu5tr4/Spark-Diario/tree/master/spark_on_yarn)
 
 #### Jupyter
 Para uso do PySpark no jupyter, que possívelmente aparecerá em alguns prints, foram feitas as seguintes configurações:
