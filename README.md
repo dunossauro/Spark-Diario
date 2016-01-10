@@ -25,11 +25,11 @@ Para uso do PySpark no jupyter, que possívelmente aparecerá em alguns prints, 
 
 [Sobre o Spark-cluster]()
 
-#### Sobre este diretório:
+#### Sobre este diretório
 
-	Ele nasceu com objetivo de aprender e ensinar Apache Spark a todos os interessados e com algumas prioridades
+Ele nasceu com objetivo de aprender e ensinar Apache Spark a todos os interessados e com algumas prioridades:
 
-	1. Fazer com que o aprendizado de hadoop seja acessivel a todos os não falantes de inglês ou de Javanes
+	1. Fazer com que o aprendizado de Spark seja acessivel a todos os não falantes de inglês ou de Sparkes
 	2. Propagar o uso de Software Livre
 	3. Usar Python o máximo possível
 	4. Resolver alguns problemas de linguistica de corpus
