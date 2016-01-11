@@ -19,7 +19,7 @@ Para usar o gerente de cluster do Hadoop, YARN, foram feitas algumas alteraçõe
 #### Jupyter
 Para uso do PySpark no jupyter, que possívelmente aparecerá em alguns prints, foram feitas as seguintes configurações:
 
-[PySpark on Jupyter]()
+[PySpark on Jupyter](https://github.com/z4r4tu5tr4/Spark-Diario/blob/master/about/jupyter.md)
 
 #### As configurações, versões e metodo usádo para instalação estão disponíveis em:
 
