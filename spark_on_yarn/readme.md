@@ -1,6 +1,6 @@
 # Configuração
 
-Para que o Spark Reconheça um cluster Hadoop já em funcionamento, você deve adicionar a linha a baixo ao arquivo `spark-env.sh`:
+Para que o Spark Reconheça um cluster Hadoop já em funcionamento, você deve adicionar a linha a baixo ao arquivo `spark/conf/spark-env.sh.template`:
   
   `HADOOP_CONF_DIR=<Caminho do seu /etc/hadoop>`
   
